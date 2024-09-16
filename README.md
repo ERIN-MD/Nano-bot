@@ -41,7 +41,7 @@
   <a href="https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBoudy1490%2FNano-bot">
     <img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg" alt="Deploy to Render"/>
   </a>
-  <a href="https://repl.it/github/Boudy1490/Nano-bot">
+  <a href="https://replit.com/@boudysaid7/Nano-bot">
     <img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg" alt="Run on Repl.it"/>
   </a>
   <a href="https://dashboard.toystack.ai/repositories/a1a5a3d9-c3df-453f-b2da-043e21f5c99e/deployments">
